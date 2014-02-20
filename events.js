@@ -2,8 +2,8 @@
  * Module dependencies
  */
 
-var Event = require('event'),
-    Delegate = require('delegate'),
+var Event = require('component-event'),
+    Delegate = require('component-delegate'),
     slice = Array.prototype.slice;
 
 /**

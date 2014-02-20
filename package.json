@@ -1,0 +1,15 @@
+{
+  "name": "matthewmueller-events",
+  "description": "backbone's event binding as a standalone component",
+  "version": "0.0.2",
+  "keywords": [
+    "events",
+    "delegation",
+    "view"
+  ],
+  "main": "events.js",
+  "dependencies": {
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "component-delegate": "git://github.com/npmcomponent/component-delegate.git"
+  }
+}
